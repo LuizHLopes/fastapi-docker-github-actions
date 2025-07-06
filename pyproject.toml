@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "github-actions-labs"
+version = "0.0.1"
 description = "Sample project with a simple FastAPI workflow"
 authors = ["Santiago Garcia Arango <san99tiago@gmail.com>"]
 license = "Apache"
