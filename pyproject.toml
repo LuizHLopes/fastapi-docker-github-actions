@@ -1,4 +1,9 @@
-
+[tool.poetry]
+name = "github-actions-labs"
+description = "Sample project with a simple FastAPI workflow"
+authors = ["Santiago Garcia Arango <san99tiago@gmail.com>"]
+license = "Apache"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
